@@ -1,6 +1,6 @@
 # PHYS220 CW 5
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez, Preston Kamada_
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-05-YOURNAME)
 
@@ -24,7 +24,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+I really enjoyed using the PocketLab device in class. I understood what was asked of me more because it was experimental.
 
 ## Honor Pledge
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez, Preston S Kamada
